@@ -7,6 +7,15 @@
   </tr>
 
 <tr>
+  <td><strong>Search Insert Position</strong></td>
+  <td align="center">
+    <a href="https://leetcode.com/problems/search-insert-position/solutions/7491412/search-insert-position-java-javascript-p-xl4e" target="_blank">
+      <img src="https://img.shields.io/badge/Upvote%20%26%20View%20Solution-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </td>
+</tr>
+
+<tr>
   <td><strong>Find the Index of the First Occurrence in a String</strong></td>
   <td align="center">
     <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7480379/find-the-index-of-the-first-occurrence-i-wz6g" target="_blank">
@@ -52,6 +61,7 @@
 </tr>-->
 
 </table>
+
 
 
 
