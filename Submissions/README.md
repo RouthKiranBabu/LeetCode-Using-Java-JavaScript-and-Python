@@ -23,6 +23,10 @@
     <img src="https://img.shields.io/badge/February-Upvote%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/tree/main/Submissions/2026/03#-all-my-leetcode-solution-submissions" target="_blank">
+    <img src="https://img.shields.io/badge/March-Upvote%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
  </td>
 </tr>
 
